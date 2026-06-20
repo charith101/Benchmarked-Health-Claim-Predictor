@@ -3,7 +3,7 @@
 ### Overview
 This repository contains an interactive data-visualization application built with Streamlit. The project analyzes health insurance data to uncover trends and patterns related to medical claims, patient demographics, and lifestyle factors.
 
-Live demo: https://your-deployed-link.example.com
+Live demo: https://benchmarked-health-claim-predictor.streamlit.app
 
 ### Dataset Details
 The application processes a medical insurance dataset originally containing 1,340 records and 10 columns. After cleaning, 8 duplicate rows were removed, resulting in 1,332 unique entries.
