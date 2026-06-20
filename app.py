@@ -19,7 +19,7 @@ def load_artifacts():
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('insurance.csv')
+    return pd.read_csv('data/insurance.csv')
 
 model, scaler, le_gender, le_diabetic, le_smoker = load_artifacts()
 df = load_data()
